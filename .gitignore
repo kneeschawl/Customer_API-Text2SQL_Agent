@@ -1,0 +1,7 @@
+.venv/
+venv/
+env/
+.env
+*.csv
+app.log
+__pycache__/
